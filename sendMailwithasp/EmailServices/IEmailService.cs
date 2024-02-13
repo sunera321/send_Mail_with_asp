@@ -1,6 +1,5 @@
 ﻿using Email_Test.DTOs;
 
-
 namespace Email_Test.EmailService
 {
     // Defining an interface for the email service
